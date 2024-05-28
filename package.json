@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "app-root-path": "^3.1.0",
-    "axios": "^1.7.2",
     "electron-log": "^5.1.5"
   },
   "devDependencies": {
