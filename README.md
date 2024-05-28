@@ -24,13 +24,8 @@ npm run dev;
 
 ## Help
 
-- [Electronjs - documentation](https://www.electronjs.org/pt/docs/latest/)
-- [What is CODE SIGNING | Importance of code sign | Code sing in electron js](https://youtu.be/a27EtDuUGYg)
-- [Electron Builder Tutorial: How to Sign Your Electron App's Code](https://youtu.be/WnipZaYslRc)
-- [Electron AutoUpdater Tutorial: How to Ship Updates to Your Electron App on Mac](https://youtu.be/CtuV6hho2U0)
-- [Electron Mini Tutorials](https://youtube.com/playlist?list=PL_2VhOvlMk4XLzvGgqbmjF9PkVgUGMDcJ&si=7r5qeWiby_1d6vCr)
-- [Hacking Electron Applications](https://youtu.be/jkJWA_CWrQs)
-- [Any Linux Target](https://www.electron.build/configuration/linux)
+- [Wireless javascript robotics with Johnny five and the ESP8266](https://dev.to/salted-bytes/wireless-javascript-robotics-with-johnny-five-and-the-esp8266-al3)
+- [ESP8266 – NodeMCU PinOut](https://www.studiopieters.nl/esp8266-node-mcu-pinout/)
 
 ## NPM Commands
 

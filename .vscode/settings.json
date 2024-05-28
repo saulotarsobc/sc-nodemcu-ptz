@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "*.md": "markdown",
+        "*.csv": "plaintext",
+        "*.js": "javascript",
+        "*.ps1": "powershell",
+        "*.yaml": "yaml",
+        ".env.docker": "dotenv",
+        ".env": "yaml",
+        ".env.example": "dotenv",
+        ".env.production": "dotenv",
+        ".env*": "dotenv",
+        "format": "cpp"
+    }
+}
